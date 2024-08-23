@@ -1,4 +1,4 @@
-Atualizacao 23;08/24
+Atualizacao 23/08/24
 # Contrato
 O organizador da competição contratou a sua equipe para criar uma aplicação capaz de receber o nome e notas dos atletas e realizar o devido cálculo. Você foi o encarregado de criar a solução utilizando a linguagem JavaScript.
 
@@ -155,7 +155,8 @@ Os outros são atletismo, esgrima e natação.
   </tr>
 </table>   
 <br>
-# Dados dos Atletas           ![Dados dos Atletas](https://github.com/user-attachments/assets/88ad4e85-8612-43b3-bc50-2755fa7d2246)
+
+# Dados dos Atletas      ![Dados dos Atletas](https://github.com/user-attachments/assets/88ad4e85-8612-43b3-bc50-2755fa7d2246)
 
 # Contrato:
 
